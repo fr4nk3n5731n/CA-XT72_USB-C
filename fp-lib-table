@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UJC-HP-3-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/components/UJC-HP-3-SMT-TR/")(options "")(descr "USB-C Socket UJC-HP-3-SMT-TR"))
+  (lib (name "C1F 500")(type "KiCad")(uri "${KIPRJMOD}/components/C1F 500")(options "")(descr ""))
+)
